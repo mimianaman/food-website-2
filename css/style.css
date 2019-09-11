@@ -1,0 +1,45 @@
+.text-section {
+  background-color: #febe00;
+  height: 100vh;
+  color: white;
+}
+
+.image-section {
+  background-color: #2d2f3a;
+  height: 100vh;
+}
+
+.color-me a {
+  color: #dbb43e;
+}
+.sub-menu a {
+  color: #d6b65d;
+}
+.text-white {
+  color: white;
+}
+.text-1 {
+  font-family: "Kalam", cursive;
+  font-size: 2.5rem;
+}
+.text-2 {
+  font-size: 4.5rem;
+  margin-bottom: 0.1rem;
+  font-family: "Manjari", sans-serif;
+}
+.text-3 {
+  font-size: 1.5rem;
+  color: #dbb43e;
+  font-family: "Livvic", sans-serif;
+}
+/* .media img {
+  max-width: 100px;
+} */
+.pic-text {
+  color: #b3b4b8;
+  font-size: 0.6rem;
+}
+.last-text {
+  color: #707072;
+  font-size: 0.6rem;
+}
