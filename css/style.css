@@ -43,3 +43,47 @@
   color: #707072;
   font-size: 0.6rem;
 }
+.cover {
+  height: 120%;
+  width: 120%;
+  margin: -45%;
+}
+.icons {
+  width: 50px;
+  height: 150px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  background-color: white;
+  position: absolute;
+  right: 0;
+}
+.box-1 {
+  font-size: 10px;
+  color: black;
+}
+.box-2 {
+  font-size: 10px;
+  color: black;
+}
+.box1-text {
+  font-size: 20px;
+  border: 2px solid black;
+  height: 30px;
+  width: 30px;
+  color: black;
+}
+.box2-text {
+  font-size: 20px;
+  border: 2px solid black;
+  height: 30px;
+  width: 30px;
+  color: black;
+}
+.last-text {
+  color: black;
+  font-size: 0.4rem;
+}
+.last-text-2 {
+  color: black;
+  font-size: 0.4rem;
+}
