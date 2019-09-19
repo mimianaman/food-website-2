@@ -83,7 +83,7 @@
   width: 30px;
   color: black;
 }
-.last-text {
+.edit-text {
   color: black;
   font-size: 0.4rem;
 }
@@ -91,3 +91,8 @@
   color: black;
   font-size: 0.4rem;
 }
+.correct-color {
+  color: #707072;
+  font-size: 0.6rem;
+}
+/*  */
